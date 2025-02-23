@@ -7,23 +7,23 @@
 Welcome to **NextGenResume**! Our goal is to help you build a professional, ATS-friendly resume with ease. Whether you're just starting or refining your existing resume, **NextGenResume** offers the tools you need to stand out in the job market.
 
 ### Key Features:
-- **ATS Compatibility Score**: Get an understanding of how well your resume will perform with Applicant Tracking Systems.
-- **Keyword Gap Analysis**: Identify missing keywords for your industry to make your resume stronger.
-- **Role-Specific Feedback**: Receive tailored tips to improve your resume based on the job you're aiming for.
-- **Skills Gap Breakdown**: Get insights on what skills you might be missing for your target role.
+-  Get an understanding of how well your resume will perform with Applicant Tracking Systems.
+- Identify missing keywords for your industry to make your resume stronger.
+-  Receive tailored tips to improve your resume based on the job you're aiming for.
+-  Get insights on what skills you might be missing for your target role.
 
 ## 🚀 **Core Features**
 
 ### 1. **AI-Powered Resume Builder**
-   - **Themes That Shine**: Choose from four modern and professional templates—Modern, Minimal, Professional, and Creative.
-   - **Smart Content Suggestions**: Get automatic content suggestions to enhance your resume.
+   -  Choose from four modern and professional templates—Modern, Minimal, Professional, and Creative.
+   -  Get automatic content suggestions to enhance your resume.
    - **ATS-Optimized Formatting**: Build a resume that is perfectly structured to pass through ATS systems.
-   - **Customizable Sections**: Edit sections like skills, achievements, and hobbies to make your resume stand out.
+   - Edit sections like skills, achievements, and hobbies to make your resume stand out.
 
 ### 2. **AI Optimization Engine**
-   - **Keyword Highlighting**: Highlight important keywords that are relevant to your job role.
-   - **Content Enhancement Tips**: Improve your content with easy-to-follow tips.
-   - **Industry-Specific Insights**: Get specific advice based on your industry to make your resume shine.
+   - Highlight important keywords that are relevant to your job role.
+   - Improve your content with easy-to-follow tips.
+   - Get specific advice based on your industry to make your resume shine.
 
 ### 3. **Why Use NextGenResume?**
    - Real-time feedback on your resume.
