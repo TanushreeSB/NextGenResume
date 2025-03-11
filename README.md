@@ -16,15 +16,16 @@ Working:
 4. **Save & Submit**  
    - Download your resume in **PDF** format.
 
-     
-Frontend:
+Tech Stack:
+
+1 Frontend:
 - HTML
 - CSS
 - JS
 
-Backend:
+2 Backend:
 - Streamlit
 - Python
 
-Database
+3 Database
 - SQLite3
