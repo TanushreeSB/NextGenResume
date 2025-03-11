@@ -27,5 +27,5 @@ Tech Stack:
 - Streamlit
 - Python
 
-3 Database
+3 Database:
 - SQLite3
